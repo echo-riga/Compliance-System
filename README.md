@@ -29,6 +29,7 @@ Employee compliance submission system with integrated CNN face recognition for f
 | Component        | Technology                 |
 | ---------------- | -------------------------- |
 | Backend          | PHP, Python Flask          |
+| Database         | MariaDB Xampp              |
 | Face Recognition | DeepFace                   |
 | Server           | XAMPP (Apache)             |
 | Authentication   | CNN-based face recognition |
