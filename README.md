@@ -1,6 +1,6 @@
 # Compliance System
 
-## 📌 Overview
+##  Overview
 Employee compliance submission system with integrated CNN face recognition for faster authentication. Supports multiple user roles with different permissions and actions.
 
 ---
@@ -13,7 +13,7 @@ Employee compliance submission system with integrated CNN face recognition for f
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 <p align="center">
   <img src="screenshots/screenshot1.png" width="48%" />
   <img src="screenshots/screenshot2.png" width="48%" />
@@ -24,7 +24,7 @@ Employee compliance submission system with integrated CNN face recognition for f
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 | Component | Technology |
 |-----------|------------|
 | Backend | PHP, Python Flask |
