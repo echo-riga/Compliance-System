@@ -5,7 +5,7 @@ Employee compliance submission system with integrated CNN face recognition for f
 
 ---
 
-## ✨ Features
+##  Features
 - Compliance submission for employees
 - Integrated face recognition authentication
 - Multi-role access (HR Staff, HR Officer, Admin, Employee)
